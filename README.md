@@ -1,3 +1,1 @@
 First
-
-GitHub-os szerkesztés
